@@ -1,1 +1,2 @@
-처음 올린거 앞으로 계속 고칠 계획
+Netflix
+REACT와 SPRING BOOT를 사용하여  IMDB 영화  소개 웹 서비스를 구현

@@ -42,7 +42,6 @@ Spring Boot와 JPA를 이용하여 넷플릭스 클론코딩의 서버 사이드
 **Back-End**
 - Spring Boot 
 - JPA
-- OracleDB
   
 **DB**
 - Oracle 11g
